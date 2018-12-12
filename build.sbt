@@ -1,4 +1,4 @@
-name := "WebCrawler"
+name := "TW2018WebCrawler"
 
 version := "1.0"
 
